@@ -19,4 +19,6 @@ If your solution fails on a particular testcase, then it will return WA status, 
               Example for above scenario::  bash stress.sh 1.cpp 10
 
 
-![Quick Demo](https://ibb.co/PNTLKTz "Text to show on mouseover").
+![](https://user-images.githubusercontent.com/42353548/89758485-89b6cf00-db05-11ea-863f-bed6943615c4.png)
+
+![](https://user-images.githubusercontent.com/42353548/89758485-89b6cf00-db05-11ea-863f-bed6943615c4.png).
