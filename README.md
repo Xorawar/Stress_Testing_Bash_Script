@@ -11,7 +11,7 @@ If your solution fails on a particular testcase, then it will return WA status, 
 ### How to Run?
 - **Step 1-** Download this repository manually or by using git clone on terminal.
 - **step 2-** Write your brute solution/ Correct solution in file `brute.cpp`
-- **step 3-** Write your solution in file `1.cpp`
+- **step 3-** Write your solution in file `1.cpp` or your own solution file.
 - **step 4-** Do modification to generate testcases in file `gen.cpp`
 - **step 5-** Open the terminal and go the directory containing above three files + stress.sh file.
 - **step 6-** Run `bash stress.sh your_solution_file_name.cpp number_of_testcases`
